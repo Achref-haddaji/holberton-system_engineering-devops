@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +rwx 4-empty
+chmod 744 4-empty
